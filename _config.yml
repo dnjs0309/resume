@@ -1,0 +1,11 @@
+# Site settings
+title: Miroslav Maksimovic Resume
+email: maksimovic991@gmail.com
+description: I am a Web Developer and Designer based on Belgrade, Serbia.
+author: Miroslav Maksimovic
+url: https://elmaxi.github.io
+baseurl: resume
+
+
+# Build settings
+markdown: kramdown
