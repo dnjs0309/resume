@@ -3,9 +3,6 @@ title: Miroslav Maksimovic - Web Developer
 email: maksimovic991@gmail.com
 description: I'm a Web Developer based in Belgrade, Serbia. Specialized in both back-end and front-end development.
 author: Miroslav Maksimovic
-url: https://elmaxi.github.io
-baseurl: resume
-
 
 # Build settings
 markdown: kramdown
